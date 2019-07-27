@@ -26,7 +26,7 @@ public class ProductController {
 
     private ProductService productService;
 
-    private ProductToProductForm productToProductForm;
+    private ProductToProductForm  productToProductForm;
 
 
 
